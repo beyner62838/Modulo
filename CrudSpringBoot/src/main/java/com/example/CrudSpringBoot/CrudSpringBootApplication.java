@@ -7,7 +7,10 @@ package com.example.CrudSpringBoot;
 public class CrudSpringBootApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hola mundo")
+
 		SpringApplication.run(CrudSpringBootApplication.class, args);
+		
 	}
 
 }
